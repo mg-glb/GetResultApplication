@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetResultApplication</string>
+    <string name="button">Pick Contact</string>
+    <string name="phone">Your picked phone will appear here</string>
+</resources>
